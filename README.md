@@ -15,4 +15,4 @@ Models Used:
 
 Finally I considered Fb-Prophet because it was giving a better result in terms of MAE.
 
-<img src="Image/FbProphet.jpg" width="500">
+<img src="Image/FbProphet.JPG" width="500">
