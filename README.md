@@ -5,3 +5,13 @@ Goal is to forecast daily cases for the next 3 months for 2 different business s
 
 
 <img src="Image/AttributeTable.jpg" width="500">
+
+
+Models Used:
+1.AR(P)
+2.Auto-ARIMA
+3.SARIMA
+4.Fb-PROPHET
+
+Finally i considered Fb-Prophet because it was giving a better result in terms of MAE.
+<img src="Image/FbProphet.JPG" width="500">
